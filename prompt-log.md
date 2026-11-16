@@ -1,4 +1,4 @@
-LAST SYNCED: November 15, 2026. Source of truth: the "Chatbot Prompt of the Week" Google Doc maintained by UChicago Career Advancement.
+LAST SYNCED: November 16, 2026. Source of truth: the "Chatbot Prompt of the Week" Google Doc maintained by UChicago Career Advancement.
 
 ---
 
