@@ -1,4 +1,4 @@
-LAST SYNCED: November 19, 2026. Source of truth: the "Chatbot Prompt of the Week" Google Doc maintained by UChicago Career Advancement.
+LAST SYNCED: November 20, 2026. Source of truth: the "Chatbot Prompt of the Week" Google Doc maintained by UChicago Career Advancement.
 
 ---
 
@@ -199,3 +199,23 @@ The Prompt (each update):
 Add this to my tracker: [paste a link or quick notes, e.g., “sustainability analyst role at a utility [link], due 12/1, want to ask my TA if she knows anyone there”]. Put it in the right tab, fill in what you can, and flag anything missing.
 
 Tip: Check each entry Claude adds. Once a week, ask Claude “What’s due or needs a follow-up this week?” to turn your tracker into a to-do list.
+
+# November 19
+
+The Opportunity: Thanksgiving break is a rare stretch with no problem sets, and the first interviews of winter recruiting can land the week classes resume on Jan 4. Most students have never answered an interview question out loud before the real one. Use 30 minutes this week to find your weak spots while nothing is at stake.
+
+The Output: A live mock interview with five questions, one at a time, with a score and one specific fix after each answer. You finish with your two biggest patterns to correct and a short practice list for the weeks before winter quarter.
+
+The Prompt:
+
+I’m a [year] at UChicago studying [major], recruiting for [role type, e.g., AI/ML internship, product analyst, research position] starting winter quarter. Here’s one project from my resume I should be able to discuss: [paste 3-4 bullets].
+
+Run a mock interview with me. Ask five questions, one at a time, and wait for my answer before moving on: two behavioral, one “why this role/company,” one deep-dive on the project above, and one curveball.
+
+After each answer, give me a score out of 5 and the single biggest thing to fix. Don’t rewrite my answer for me. If I’m vague, push back with a follow-up the way a real interviewer would.
+
+At the end, tell me the two patterns that showed up across my answers and give me a three-item practice list for the weeks before January 4.
+
+Be direct. Don’t flatter me.
+
+Tip: Use voice mode, or at least say your answers out loud before typing them. Typed answers hide the filler words, rambling, and long pauses that sink real interviews. Don’t paste confidential details from past internships.
